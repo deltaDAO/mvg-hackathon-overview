@@ -1,10 +1,20 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "mvg-hackathon-overview",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "An overview page to guide you through the Gaia-X hackathons",
+  "version": "0.0.1",
+  "author": "deltaDAO AG",
+  "homepage": "hackathon.minimal-gaia-x.eu",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop --host 0.0.0.0",
+    "format": "prettier --ignore-path .gitignore './**/*.{css,yml,js,ts,tsx,json}' --write",
+    "lint": "eslint --ignore-path .gitignore --ext .js --ext .ts --ext .tsx . && npm run type-check",
+    "clean": "gatsby clean",
+    "type-check": "tsc --noEmit"
+  },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "gatsby": "^4.2.0",
     "gatsby-plugin-gatsby-cloud": "^4.2.0",
     "gatsby-plugin-image": "^2.2.0",
@@ -13,33 +23,40 @@
     "gatsby-plugin-react-helmet": "^5.2.0",
     "gatsby-plugin-sharp": "^4.2.0",
     "gatsby-source-filesystem": "^4.2.0",
+    "gatsby-transformer-json": "^4.2.0",
     "gatsby-transformer-sharp": "^4.2.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-tabs": "^3.2.3"
   },
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "@types/react": "^17.0.36",
+    "@types/react-helmet": "^6.1.4",
+    "@types/react-tabs": "^2.3.3",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint": "^7.32.0",
+    "eslint-config-oceanprotocol": "^1.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "husky": "^7.0.4",
+    "prettier": "^2.4.1",
+    "pretty-quick": "^3.1.2",
+    "typescript": "^4.5.2"
   },
   "keywords": [
-    "gatsby"
+    "mvg",
+    "gaia-x"
   ],
-  "license": "0BSD",
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/deltaDAO/mvg-hackathon-overview"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/deltaDAO/mvg-hackathon-overview/issues"
   }
 }
