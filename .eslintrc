@@ -1,0 +1,36 @@
+{
+  "extends": ["eslint:recommended", "prettier"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": { "jsx": true }
+  },
+  "env": { "browser": true, "node": true, "es2020": true, "jest": true },
+  "settings": {
+    "react": { "version": "detect" }
+  },
+  "overrides": [
+    {
+      "files": ["**/*.ts", "**/*.tsx"],
+      "parser": "@typescript-eslint/parser",
+      "parserOptions": {
+        "project": ["./tsconfig.json"]
+      },
+      "extends": [
+        "oceanprotocol",
+        "oceanprotocol/react",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:prettier/recommended",
+        "plugin:react-hooks/recommended"
+      ],
+      "plugins": ["@typescript-eslint", "prettier"],
+      "rules": {
+        "react/prop-types": "off",
+        "react/no-unused-prop-types": "off",
+        "@typescript-eslint/explicit-function-return-type": "off",
+        "no-use-before-define": "off",
+        "@typescript-eslint/no-use-before-define": "error"
+      }
+    }
+  ]
+}

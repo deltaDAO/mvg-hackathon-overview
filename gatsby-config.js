@@ -30,6 +30,15 @@ module.exports = {
     `gatsby-transformer-sharp`,
     'gatsby-transformer-json',
     {
+      resolve: 'gatsby-plugin-svgr',
+      options: {
+        icon: false,
+        svgoConfig: {
+          plugins: [{ removeViewBox: false }]
+        }
+      }
+    },
+    {
       // https://www.gatsbyjs.org/packages/gatsby-plugin-manifest/#using-with-gatsby-plugin-offline
       resolve: 'gatsby-plugin-manifest',
       options: {
