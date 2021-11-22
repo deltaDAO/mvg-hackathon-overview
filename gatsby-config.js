@@ -52,6 +52,13 @@ module.exports = {
         cache_busting_mode: 'none'
       }
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
+    // The only required option is the domain
+    {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: siteContent.site.siteUrl.replace('https://', '')
+      }
+    }
   ]
 }

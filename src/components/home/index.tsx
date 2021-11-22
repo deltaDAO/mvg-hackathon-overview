@@ -44,7 +44,7 @@ export default function PageHome(): ReactElement {
     return (
       <div className={styles.resourceList}>
         {resources.map((resource) => (
-          <ResourceTeaser key={resource.url} {...resource} />
+          <ResourceTeaser key={resource.url} {...resource} trackResource />
         ))}
       </div>
     )
