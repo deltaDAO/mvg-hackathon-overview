@@ -1,27 +1,29 @@
 {
+  "resources": [
+    {
+      "title": "✅ Register now",
+      "desc": "Registration for the 2nd Gaia-X Hackathon is now open!",
+      "url": "https://mautic.cloudandheat.com/gaiaxhackathon2"
+    },
+    {
+      "title": "🚪 Overview",
+      "desc": "GitLab entrypoint for the 2nd Gaia-X hackathon. Find milestones, issues and other related activities here.",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
+    },
+    {
+      "title": "🗓 Schedule & Agenda",
+      "desc": "Overview of the tracks and their sessions scheduled on December 2nd and 3rd.",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/wikis/GX-Hackathon-2"
+    }
+  ],
   "categories": [
     {
       "title": "Data-to-Compute (Pilot 004)",
       "resources": [
         {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
-        },
-        {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
+          "title": "📖 Easy Jump in Guide",
+          "desc": "Your first stop all things regarding the Data-to-Compute. Get an overview of pre-requisites, architecture and setting up the Pilot 004.",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-1/-/wikis/Hackathon-%231-Session-1-Easy-to-jump-in"
         }
       ]
     },
@@ -29,13 +31,8 @@
       "title": "Compute-to-Data & DLT",
       "resources": [
         {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
+          "title": "🎓 MVG Onboarding Tutorial",
+          "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://portal.minimal-gaia-x.eu/tutorial"
         }
       ]
@@ -44,14 +41,9 @@
       "title": "EDC",
       "resources": [
         {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
+          "title": "🎯 2nd Gaia-X Hackathon",
           "desc": "2nd Gaia-X Hackathon 2021",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
         }
       ]
     },
@@ -59,14 +51,9 @@
       "title": "SCS",
       "resources": [
         {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
+          "title": "Hackathon Infrastructure",
+          "desc": "The Sovereign Cloud Stack project has reached out to the SCS partners to provide infrastructure",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-1/-/wikis/Infrastructure"
         }
       ]
     },
@@ -74,14 +61,9 @@
       "title": "Confidential Computing",
       "resources": [
         {
-          "title": "🎯 2nd Gaia-X Hackathon, December 2-3, 2021",
+          "title": "🎯 2nd Gaia-X Hackathon",
           "desc": "2nd Gaia-X Hackathon 2021",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "🎓 Stream 2 - MVG Onboarding Tutorial",
-          "desc": "Your onboarding into the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
         }
       ]
     }

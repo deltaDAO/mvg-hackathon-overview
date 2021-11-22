@@ -10,7 +10,7 @@ export function ResourceTeaser(props: Resource): ReactElement {
   return (
     <article className={styles.teaser}>
       <LinkOpener uri={url} className={styles.link} openNewTab>
-        <header className={styles.header}>
+        <header>
           <Dotdotdot clamp={3}>
             <h1 className={styles.title}>{title}</h1>
           </Dotdotdot>
