@@ -1,5 +1,5 @@
 import { graphql, useStaticQuery } from 'gatsby'
-import React, { Key, ReactElement } from 'react'
+import React, { ReactElement } from 'react'
 import { ResourceCategory } from '../../@types/Resource'
 import * as styles from './index.module.css'
 import { ResourceTeaser } from './ResourceTeaser'
