@@ -34,8 +34,11 @@ You can now go ahead and make changes to this file, using one of the following o
 
 ### Using the UI
 Navigate to the `contnet` directory and click on the `resources.json` file. Here you can click on the pencil icon to edit the file. 
+
 ![grafik](https://user-images.githubusercontent.com/28757404/142865728-4d26e83a-8e60-4c33-809b-02198fa0506f.png)
+
 You can now make your changes right inside the browser. Once you are done commit your changes by using the dedicated section below the displayed file content.
+
 ![grafik](https://user-images.githubusercontent.com/28757404/142865981-a8be3047-26ce-45dc-82b6-1318887dadde.png)
 
 
