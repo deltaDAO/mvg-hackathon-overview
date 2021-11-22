@@ -6,15 +6,15 @@ import { Resource } from '../../@types/Resource'
 import { usePlausible } from '../../hooks/usePlausible'
 
 export interface ResourceTeaserProps extends Resource {
-  trackResource?: boolean
+  trackEventGoal?: string
 }
 
 export function ResourceTeaser(props: ResourceTeaserProps): ReactElement {
-  const { title, desc, url, trackResource } = props
+  const { title, desc, url, trackEventGoal } = props
   const { trackGoal } = usePlausible()
 
   const trackResourceClick = () => {
-    trackGoal(title)
+    trackGoal(trackEventGoal)
   }
 
   return (
@@ -23,7 +23,7 @@ export function ResourceTeaser(props: ResourceTeaserProps): ReactElement {
         uri={url}
         className={styles.link}
         openNewTab
-        onClick={trackResource && trackResourceClick}
+        onClick={trackEventGoal && trackResourceClick}
       >
         <header>
           <Dotdotdot clamp={3}>
