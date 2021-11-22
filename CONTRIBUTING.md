@@ -61,3 +61,6 @@ npm start
 ```
 
 Once you have all your changes made don't forget to commit them to the new branch and push it to github. Back in the github web-interface, navigate to your repository fork where you can now create a Pull Request to merge your changes to the main branch of this repository.
+
+![grafik](https://user-images.githubusercontent.com/28757404/142879019-fbf831a5-1fd7-4d23-9f01-961d224361b8.png)
+
