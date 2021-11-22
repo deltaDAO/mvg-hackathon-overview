@@ -9,6 +9,7 @@ If you are leading one of the hackathon tracks, know of some missing resources, 
 ## 2. Make your changes
 
 You can easily add, remove or adjust resources by editing the `content/resources.json` file. The file has the following structure:
+
 ```json
 {
   "resources": [],
@@ -22,6 +23,7 @@ You can easily add, remove or adjust resources by editing the `content/resources
 The most changes you want to make probably need to be made in the respective hackathon-track category. Here you find a `title` which is displayed in the tab-list, and the `resources` holding an array where the links to all relevant track resources are located.
 
 A single resource has the following structure, where all attributes are required:
+
 ```json
 {
   "title": "My resource title",
@@ -33,7 +35,8 @@ A single resource has the following structure, where all attributes are required
 You can now go ahead and make changes to this file, using one of the following option.
 
 ### Using the UI
-Navigate to the `contnet` directory and click on the `resources.json` file. Here you can click on the pencil icon to edit the file. 
+
+Navigate to the `contnet` directory and click on the `resources.json` file. Here you can click on the pencil icon to edit the file.
 
 ![grafik](https://user-images.githubusercontent.com/28757404/142865728-4d26e83a-8e60-4c33-809b-02198fa0506f.png)
 
@@ -41,18 +44,20 @@ You can now make your changes right inside the browser. Once you are done commit
 
 ![grafik](https://user-images.githubusercontent.com/28757404/142865981-a8be3047-26ce-45dc-82b6-1318887dadde.png)
 
-
 ### Make changes locally
-Once you have forked the repository, go ahead and clone it locally. 
+
+Once you have forked the repository, go ahead and clone it locally.
 You need to install or update [node.js](https://nodejs.org/en/)
 Navigate into the cloned directory and run the following command inside the terminal to install the project dependencies.
+
 ```bash
 npm install
 ```
 
 First of all, checkout to a new branch to make your changes in. Now you can edit the `/content/resources.json` file. If you want to preview your changes locally you can simply run the following command:
+
 ```bash
 npm start
 ```
 
-Once you have all your changes made don't forget to commit them to the new branch and push it to github. Back in the github web-interface you can now create a Pull Request to merge your changes to the main branch of this repository.
+Once you have all your changes made don't forget to commit them to the new branch and push it to github. Back in the github web-interface, navigate to your repository fork where you can now create a Pull Request to merge your changes to the main branch of this repository.
