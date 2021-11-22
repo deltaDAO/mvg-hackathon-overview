@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacer);
+}
+
+.hackathon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.hackathon h1 {
+  font-size: var(--font-size-large);
+  margin: 0;
+}

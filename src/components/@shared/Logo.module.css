@@ -14,11 +14,11 @@
 }
 
 a > .logo:hover path {
-  fill: var(--color-primary);
+  fill: var(--brand-blue);
 }
 
 .branding path {
-  fill: var(--color-primary);
+  fill: var(--brand-blue);
 }
 
 @media screen and (min-width: 55rem) {

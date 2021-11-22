@@ -2,6 +2,7 @@ import React, { ReactElement } from 'react'
 import Styles from './components/@shared/Styles'
 import * as styles from './App.module.css'
 import Footer from './components/@shared/Footer'
+import Header from './components/@shared/Header'
 
 export default function App({
   children
@@ -11,6 +12,7 @@ export default function App({
   return (
     <Styles>
       <div>
+        <Header />
         <main className={styles.main}>{children}</main>
         <Footer />
       </div>
