@@ -1,8 +1,8 @@
 {
   "site": {
-    "siteTitle": "Minimal Viable Gaia-X Overview",
-    "siteTagline": "A one-stop overview page to discover all relevant resources in the Minimal Viable Gaia-X context.",
-    "siteUrl": "https://minimal-gaia-x.eu",
+    "siteTitle": "Gaia-X Hackathon",
+    "siteTagline": "A one-stop overview page to discover all relevant resources related to the Gaia-X hackathons.",
+    "siteUrl": "https://hackathon.minimal-gaia-x.eu",
     "siteIcon": "./src/images/dd_logo_transparent.png",
     "siteImage": "../src/images/share.png",
     "copyright": "All Rights Reserved. Built and hosted by [deltaDAO](https://delta-dao.com)."
