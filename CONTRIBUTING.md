@@ -36,13 +36,13 @@ You can now go ahead and make changes to this file, using one of the following o
 
 ### Using the UI
 
-Navigate to the `contnet` directory and click on the `resources.json` file. Here you can click on the pencil icon to edit the file.
+Navigate to the `content` directory and click on the `resources.json` file. Here you can click on the pencil icon to edit the file.
 
-![grafik](https://user-images.githubusercontent.com/28757404/142865728-4d26e83a-8e60-4c33-809b-02198fa0506f.png)
+![graphic](https://user-images.githubusercontent.com/28757404/142865728-4d26e83a-8e60-4c33-809b-02198fa0506f.png)
 
 You can now make your changes right inside the browser. Once you are done commit your changes by using the dedicated section below the displayed file content.
 
-![grafik](https://user-images.githubusercontent.com/28757404/142865981-a8be3047-26ce-45dc-82b6-1318887dadde.png)
+![graphic](https://user-images.githubusercontent.com/28757404/142865981-a8be3047-26ce-45dc-82b6-1318887dadde.png)
 
 ### Make changes locally
 
@@ -60,7 +60,7 @@ First of all, checkout to a new branch to make your changes in. Now you can edit
 npm start
 ```
 
-Once you have all your changes made don't forget to commit them to the new branch and push it to github. Back in the github web-interface, navigate to your repository fork where you can now create a Pull Request to merge your changes to the main branch of this repository.
+Once you have all your changes made don't forget to commit them to the new branch and push it to GitHub. Back in the GitHub web-interface, navigate to your repository fork where you can now create a Pull Request to merge your changes to the main branch of this repository.
 
-![grafik](https://user-images.githubusercontent.com/28757404/142879019-fbf831a5-1fd7-4d23-9f01-961d224361b8.png)
+![graphic](https://user-images.githubusercontent.com/28757404/142879019-fbf831a5-1fd7-4d23-9f01-961d224361b8.png)
 
