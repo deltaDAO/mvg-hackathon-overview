@@ -8,3 +8,9 @@ declare module '*.svg' {
   const src: string
   export default src
 }
+
+// Plausible Object
+type PlausibleFn = import('./Plausible').PlausibleFn
+declare interface Window {
+  plausible: PlausibleFn
+}

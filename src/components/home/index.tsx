@@ -40,20 +40,32 @@ export default function PageHome(): ReactElement {
     c.title.toLowerCase().includes('compute-to-data')
   )
 
-  const getResourceList = (resources: Resource[]): ReactElement => {
+  const getResourceList = (
+    resources: Resource[],
+    trackEventGoal?: string
+  ): ReactElement => {
     return (
       <div className={styles.resourceList}>
         {resources.map((resource) => (
-          <ResourceTeaser key={resource.url} {...resource} />
+          <ResourceTeaser
+            key={resource.url}
+            {...resource}
+            trackEventGoal={trackEventGoal}
+          />
         ))}
       </div>
     )
   }
 
-  const tabs = categories.map((category: ResourceCategory) => ({
-    title: category.title,
-    content: getResourceList(category.resources)
-  }))
+  const tabs = categories.map((category: ResourceCategory) => {
+    const track = category.title.toLowerCase().includes('compute-to-data')
+      ? 'CtDResource'
+      : undefined
+    return {
+      title: category.title,
+      content: getResourceList(category.resources, track)
+    }
+  })
 
   return (
     <>
