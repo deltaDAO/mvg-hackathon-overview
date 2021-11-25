@@ -18,22 +18,62 @@
   ],
   "categories": [
     {
-      "title": "Data-to-Compute (Pilot 004)",
+      "title": "Pilot 004",
       "resources": [
         {
           "title": "📖 Easy Jump in Guide",
-          "desc": "Your first stop all things regarding the Data-to-Compute. Get an overview of pre-requisites, architecture and setting up the Pilot 004.",
+          "desc": "Your first stop all things regarding Data-to-Compute. Get an overview of prerequisites, architecture and setting up the Pilot 004.",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-1/-/wikis/Hackathon-%231-Session-1-Easy-to-jump-in"
         }
       ]
     },
     {
-      "title": "Compute-to-Data & DLT",
+      "title": "Compute-to-Data",
       "resources": [
         {
           "title": "🎓 MVG Onboarding Tutorial",
           "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://portal.minimal-gaia-x.eu/tutorial"
+        },
+        {
+          "title": "🎯 SSI & VC Milestones",
+          "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones"
+        },
+        {
+          "title": "🤝 Minimal Viable Gaia-X Portal Repository",
+          "desc": "The Portal enables publication, discovery, consume and management of service offerings",
+          "url": "https://github.com/deltaDAO/Ocean-Market"
+        }
+      ]
+    },
+    {
+      "title": "Identity & Trust",
+      "resources": [
+        {
+          "title": "🆔 Identity & Trust",
+          "desc": "The Federated Trust Model of Gaia-X provides transparency for everyone",
+          "url": "https://www.gaia-x.eu/sites/default/files/2021-10/Gaia-X_Architecture_Document_2109.pdf"
+        },
+        {
+          "title": "🎯 SSI & VC Milestones",
+          "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones"
+        },
+        {
+          "title": "🔵 SSI Kit & Core Concepts of SSI",
+          "desc": "What is Self-Sovereign Identity (SSI)?",
+          "url": "https://docs.walt.id/ssikit/ssikit-ssi-intro.html#what-is-self-sovereign-identity-ssi"
+        },
+        {
+          "title": "🎬 SSI Kit & Core Concepts of SSI",
+          "desc": "Setting up the SSI Kit and step by step Tutorial",
+          "url": "https://github.com/walt-id/waltid-oceandao-docs"
+        },
+        {
+          "title": "🔵 SSI Kit Repositories",
+          "desc": "Setting up the SSI Kit and step by step Tutorial",
+          "url": "https://github.com/walt-id"
         }
       ]
     },
