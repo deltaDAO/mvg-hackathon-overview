@@ -18,7 +18,7 @@
   ],
   "categories": [
     {
-      "title": "Data-to-Compute (Pilot 004)",
+      "title": "Pilot 004",
       "resources": [
         {
           "title": "📖 Easy Jump in Guide",
@@ -28,17 +28,27 @@
       ]
     },
     {
-      "title": "Compute-to-Data & DLT",
+      "title": "Compute-to-Data",
       "resources": [
         {
           "title": "🎓 MVG Onboarding Tutorial",
           "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://portal.minimal-gaia-x.eu/tutorial"
+        },
+        {
+          "title": "🎯 SSI & VC Milestones",
+          "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones"
+        },
+        {
+          "title": "🤝 Minimal Viable Gaia-X Portal Repository",
+          "desc": "The Portal enables publication, discovery, consume and management of service offerings",
+          "url": "https://github.com/deltaDAO/Ocean-Market"
         }
       ]
     },
     {
-      "title": "Identity & Trust, SSI/VC",
+      "title": "Identity & Trust",
       "resources": [
         {
           "title": "🆔 Identity & Trust",
