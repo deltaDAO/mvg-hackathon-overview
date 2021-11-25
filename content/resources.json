@@ -22,7 +22,7 @@
       "resources": [
         {
           "title": "📖 Easy Jump in Guide",
-          "desc": "Your first stop all things regarding the Data-to-Compute. Get an overview of pre-requisites, architecture and setting up the Pilot 004.",
+          "desc": "Your first stop all things regarding Data-to-Compute. Get an overview of prerequisites, architecture and setting up the Pilot 004.",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-1/-/wikis/Hackathon-%231-Session-1-Easy-to-jump-in"
         }
       ]
@@ -34,6 +34,16 @@
           "title": "🎓 MVG Onboarding Tutorial",
           "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://portal.minimal-gaia-x.eu/tutorial"
+        }
+      ]
+    },
+    {
+      "title": "Identity & Trust, SSI/VC",
+      "resources": [
+        {
+          "title": "🆔 Identity & Trust",
+          "desc": "The Federated Trust Model of Gaia-X provides transparency for everyone",
+          "url": "https://www.gaia-x.eu/sites/default/files/2021-10/Gaia-X_Architecture_Document_2109.pdf"
         }
       ]
     },
