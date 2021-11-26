@@ -18,7 +18,7 @@
   ],
   "categories": [
     {
-      "title": "Pilot 004",
+      "title": "Data-to-Compute",
       "resources": [
         {
           "title": "📖 Easy Jump in Guide",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "title": "Confidential Computing",
+      "title": "CC",
       "resources": [
         {
           "title": "🎯 2nd Gaia-X Hackathon",
