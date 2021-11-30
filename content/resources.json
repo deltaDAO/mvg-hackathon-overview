@@ -89,6 +89,11 @@
           "title": "🎯 2nd Gaia-X Hackathon",
           "desc": "2nd Gaia-X Hackathon 2021",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
+        },
+        {
+          "title": "Eclipse Dataspace Connector",
+          "desc": "Eclipse Dataspace Connector provides a connector framework for sovereign, inter-organizational data exchange.",
+          "url": "https://projects.eclipse.org/proposals/eclipse-dataspace-connector"
         }
       ]
     },
