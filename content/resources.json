@@ -53,7 +53,7 @@
       ]
     },
     {
-      "title": "Compute-to-Data & DLT",
+      "title": "Compute-to-Data",
       "resources": [
         {
           "title": "🔴 Teams video session for this stream",
@@ -168,6 +168,26 @@
       ]
     },
     {
+      "title": "EDC",
+      "resources": [
+        {
+          "title": "🔴 Teams video session for this stream",
+          "desc": "The video conferencing stream for the EDC track.",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU5ZDI3M2MtNzljNi00N2ZjLTkyYzEtNDhmNTA4NmZjNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
+        },
+        {
+          "title": "🎯 2nd Gaia-X Hackathon",
+          "desc": "2nd Gaia-X Hackathon 2021",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
+        },
+        {
+          "title": "Eclipse Dataspace Connector",
+          "desc": "Eclipse Dataspace Connector provides a connector framework for sovereign, inter-organizational data exchange.",
+          "url": "https://projects.eclipse.org/proposals/eclipse-dataspace-connector"
+        }
+      ]
+    },
+    {
       "title": "SCS",
       "resources": [
         {
@@ -194,26 +214,6 @@
           "title": "🎯 2nd Gaia-X Hackathon",
           "desc": "2nd Gaia-X Hackathon 2021",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        }
-      ]
-    },
-    {
-      "title": "EDC",
-      "resources": [
-        {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the EDC track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU5ZDI3M2MtNzljNi00N2ZjLTkyYzEtNDhmNTA4NmZjNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
-        {
-          "title": "🎯 2nd Gaia-X Hackathon",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
-          "title": "Eclipse Dataspace Connector",
-          "desc": "Eclipse Dataspace Connector provides a connector framework for sovereign, inter-organizational data exchange.",
-          "url": "https://projects.eclipse.org/proposals/eclipse-dataspace-connector"
         }
       ]
     }
