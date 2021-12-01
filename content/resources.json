@@ -1,9 +1,9 @@
 {
   "resources": [
     {
-      "title": "✅ Register now",
-      "desc": "Registration for the 2nd Gaia-X Hackathon is now open!",
-      "url": "https://mautic.cloudandheat.com/gaiaxhackathon2"
+      "title": "✅ Teams General Session Room",
+      "desc": "The General Video Conference Room for Introduction and Overview",
+      "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQwMjhlODMtOWY4ZC00OTViLTkxMmItNzEwMGU2NmQzYjBj%40thread.v2/0?context=%7B%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7D"
     },
     {
       "title": "🚪 Overview",
@@ -21,7 +21,7 @@
       "url": "https://gaia-x.eu/"
     },
     {
-      "title": "✖️ Gaia-X Architecture Document 21.09",
+      "title": "🌟 Gaia-X Architecture Document 21.09",
       "desc": "The Gaia-X Architecture describes the concepts federated open data infrastructure.",
       "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/wikis/GX-Hackathon-2"
     },
@@ -59,6 +59,11 @@
           "title": "🔴 Teams video session for this stream",
           "desc": "The video conferencing stream for the Compute-to-Data track.",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODliM2IzMmUtYWY1NS00OGQwLTkwMjMtNDZhZWJhY2ZjNWJk%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
+        },
+        {
+          "title": "🎓 MVG Onboarding Tutorial",
+          "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
+          "url": "https://portal.minimal-gaia-x.eu/tutorial"
         },
         {
           "title": "🎓 MVG Onboarding Tutorial",
