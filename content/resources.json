@@ -74,6 +74,16 @@
           "title": "🤝 Minimal Viable Gaia-X Portal Repository",
           "desc": "The Portal enables publication, discovery, consume and management of service offerings",
           "url": "https://github.com/deltaDAO/Ocean-Market"
+        },
+        {
+          "title": "🏦 safeFBDC Portal",
+          "desc": "The safe Financial Big Data Cluster (FBDC) Portal enables AML AI/ML on sensitive data.",
+          "url": "https://safefbdc.portal.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "🔬 UDL Science and Research Portal",
+          "desc": "An open research and science platform following the principles of findability, accessibility, interoperability and reusability.",
+          "url": "https://udl.portal.minimal-gaia-x.eu/"
         }
       ]
     },
