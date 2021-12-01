@@ -84,6 +84,21 @@
           "title": "🔬 UDL Science and Research Portal",
           "desc": "An open research and science platform following the principles of findability, accessibility, interoperability and reusability.",
           "url": "https://udl.portal.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "🧑‍💻 safeFBDC Portal Repository",
+          "desc": "The safe Financial Big Data Cluster (safeFBDC) Portal Repository",
+          "url": "https://github.com/deltaDAO/portal-safeFBDC"
+        },
+        {
+          "title": "🧑🏿‍💻 UDL Science and Research Portal Repository",
+          "desc": "The Universitat de Lleida MVG Portal Repository",
+          "url": "https://github.com/deltaDAO/portal-udl"
+        },
+        {
+          "title": "👩‍💻 Forever on the Blockchain Repository",
+          "desc": "The Repository of the Forever on the Blockchain Portal",
+          "url": "https://github.com/deltaDAO/market-foreverontheblockchain"
         }
       ]
     },
