@@ -48,7 +48,7 @@
         {
           "title": "🎯 Data-to-Compute Milestones",
           "desc": "Milestones and Issues for the Data-to-Compute (GitLab Login required)",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=Hack+track+1&state=&sort=name_asc"
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+1%22&state=&sort=name_asc"
         }
       ]
     },
@@ -66,9 +66,9 @@
           "url": "https://portal.minimal-gaia-x.eu/tutorial"
         },
         {
-          "title": "🎯 SSI & VC Milestones",
+          "title": "🎯 Compute-to-Data Milestones",
           "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones"
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+2%22&state=&sort=name_asc"
         },
         {
           "title": "🤝 Minimal Viable Gaia-X Portal Repository",
@@ -116,9 +116,9 @@
           "url": "https://www.gaia-x.eu/sites/default/files/2021-10/Gaia-X_Architecture_Document_2109.pdf"
         },
         {
-          "title": "🎯 SSI & VC Milestones",
+          "title": "🎯 Identity & Trust Milestones",
           "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones"
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+3%22&state=&sort=name_asc"
         },
         {
           "title": "🔵 SSI Kit & Core Concepts of SSI",
