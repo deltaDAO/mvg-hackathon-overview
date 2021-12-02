@@ -26,7 +26,7 @@
       "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/wikis/GX-Hackathon-2"
     },
     {
-      "title": "✔️ Gaia-X Federation Services (GXFS)",
+      "title": "🤝🏽 Gaia-X Federation Services (GXFS)",
       "desc": "GXFS represent the minimum technical requirements and services of the Gaia-X Ecosystem.",
       "url": "https://www.gxfs.de/"
     }
@@ -89,6 +89,11 @@
           "title": "🔬 UDL Science and Research Portal",
           "desc": "An open research and science platform following the principles of findability, accessibility, interoperability and reusability.",
           "url": "https://udl.portal.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "💎 Forever on the Blockchain Portal",
+          "desc": "GDPR compliant data analytics for SMEs with Compute-to-Data",
+          "url": "https://forever.portal.minimal-gaia-x.eu/"
         },
         {
           "title": "🧑‍💻 safeFBDC Portal Repository",
