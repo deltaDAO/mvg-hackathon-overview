@@ -66,11 +66,6 @@
           "url": "https://youtube.com/playlist?list=PLIQKB1A_2IytB5Cf6P0uTTN4hRGbAxw7E"
         },
         {
-          "title": "🎓 MVG Onboarding Tutorial",
-          "desc": "An interactive onboarding experience guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
-          "url": "https://portal.minimal-gaia-x.eu/tutorial"
-        },
-        {
           "title": "🎯 Compute-to-Data Milestones",
           "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+2%22&state=&sort=name_asc"
@@ -109,6 +104,11 @@
           "title": "👩‍💻 Foreverontheblockchain Repository",
           "desc": "The Repository of the Foreverontheblockchain Portal",
           "url": "https://github.com/deltaDAO/market-foreverontheblockchain"
+        },
+        {
+          "title": "🆔 SSI Onboarding for the MVG",
+          "desc": "A quick and easy four-step guide focussing on onboarding to the MVG SSI solution.",
+          "url": "https://github.com/deltaDAO/files/blob/main/SSIKIT-onboarding-hackathon2.md"
         }
       ]
     },
