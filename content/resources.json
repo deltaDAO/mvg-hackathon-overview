@@ -36,11 +36,6 @@
       "title": "Data-to-Compute",
       "resources": [
         {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the Data-to-Compute track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjdhNzQ5ODEtNzYxMi00YTkyLWE2ZjUtMGRlZWE2NDYzNDJh%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
-        {
           "title": "📖 Easy Jump in Guide",
           "desc": "Your first stop all things regarding Data-to-Compute. Get an overview of prerequisites, architecture and setting up the Pilot 004.",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/wikis/Hackathon-%232-Track-1-Easy-to-jump-in"
@@ -64,6 +59,11 @@
           "title": "🎯 Compute-to-Data Milestones",
           "desc": "Milestones and Issues for the 2nd Gaia-X Hackathon (GitLab Login required)",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+2%22&state=&sort=name_asc"
+        },
+        {
+          "title": "▶️ Academy",
+          "desc": "The Academy features an interactive education track on the Federation Services and Ocean Protocol",
+          "url": "https://academy.delta-dao.com/"
         },
         {
           "title": "🚪 Minimal Viable Gaia-X Portal",
