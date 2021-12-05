@@ -22,7 +22,7 @@
     },
     {
       "title": "✅ Gaia-X Federation Services Whitepaper",
-      "desc": "This White Paper seeks to explain the concept of Gaia-X Federation Services as part of the broader Gaia-X ecosystem.",
+      "desc": "This Whitepaper seeks to explain the concept of Gaia-X Federation Services as part of the broader Gaia-X ecosystem.",
       "url": "https://gaia-x.eu/sites/default/files/2021-12/GXFS_1.pdf"
     },
     {
@@ -62,7 +62,7 @@
         },
         {
           "title": "▶️ Academy",
-          "desc": "The Academy features an interactive education track on the Federation Services and Ocean Protocol",
+          "desc": "The Academy features an interactive education track about the Federation Services and Ocean Protocol",
           "url": "https://academy.delta-dao.com/"
         },
         {
@@ -111,8 +111,8 @@
           "url": "https://github.com/deltaDAO/files/blob/main/SSIKIT-onboarding-hackathon2.md"
         },
         {
-          "title": "🦊 MetaMask Web 3.0 Wallet",
-          "desc": "The Web3.0 Wallet used in the tutorials. Considered the standard in Web3.0",
+          "title": "🦊 MetaMask Web3 Wallet",
+          "desc": "The Web3 Wallet used in the tutorials. Considered the standard in Web3",
           "url": "https://metamask.io/"
         },
         {
