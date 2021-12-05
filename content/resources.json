@@ -1,11 +1,6 @@
 {
   "resources": [
     {
-      "title": "✅ Teams General Session Room",
-      "desc": "The General Video Conference Room for Introduction and Overview",
-      "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQwMjhlODMtOWY4ZC00OTViLTkxMmItNzEwMGU2NmQzYjBj%40thread.v2/0?context=%7B%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7D"
-    },
-    {
       "title": "🚪 Overview",
       "desc": "GitLab entrypoint for the 2nd Gaia-X hackathon. Find milestones, issues and other related activities here.",
       "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
@@ -24,6 +19,11 @@
       "title": "🌟 Gaia-X Architecture Document 21.09",
       "desc": "The Gaia-X Architecture describes the concepts federated open data infrastructure.",
       "url": "https://www.gaia-x.eu/sites/default/files/2021-10/Gaia-X_Architecture_Document_2109.pdf"
+    },
+    {
+      "title": "✅ Gaia-X Federation Services Whitepaper",
+      "desc": "This White Paper seeks to explain the concept of Gaia-X Federation Services as part of the broader Gaia-X ecosystem.",
+      "url": "https://gaia-x.eu/sites/default/files/2021-12/GXFS_1.pdf"
     },
     {
       "title": "🤝🏽 Gaia-X Federation Services (GXFS)",
@@ -56,11 +56,6 @@
       "title": "Compute-to-Data",
       "resources": [
         {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the Compute-to-Data track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODliM2IzMmUtYWY1NS00OGQwLTkwMjMtNDZhZWJhY2ZjNWJk%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
-        {
           "title": "🎓 MVG Tutorial Playlist",
           "desc": "A video series guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://youtube.com/playlist?list=PLIQKB1A_2IytB5Cf6P0uTTN4hRGbAxw7E"
@@ -71,8 +66,13 @@
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2/-/milestones?search_title=%22Hack+track+2%22&state=&sort=name_asc"
         },
         {
-          "title": "🤝 Minimal Viable Gaia-X Portal Repository",
+          "title": "🚪 Minimal Viable Gaia-X Portal",
           "desc": "The Portal enables publication, discovery, consume and management of service offerings",
+          "url": "https://portal.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "🤝 Minimal Viable Gaia-X Portal Repository",
+          "desc": "The Repository to set up your own Minimal Viable Gaia-X Portal",
           "url": "https://github.com/deltaDAO/Ocean-Market"
         },
         {
@@ -109,17 +109,27 @@
           "title": "🆔 SSI Onboarding for the MVG",
           "desc": "A quick and easy four-step guide focussing on onboarding to the MVG SSI solution.",
           "url": "https://github.com/deltaDAO/files/blob/main/SSIKIT-onboarding-hackathon2.md"
+        },
+        {
+          "title": "🦊 MetaMask Web 3.0 Wallet",
+          "desc": "The Web3.0 Wallet used in the tutorials. Considered the standard in Web3.0",
+          "url": "https://metamask.io/"
+        },
+        {
+          "title": "🟦 Gaia-X Test Network Token Faucet",
+          "desc": "The faucet to acquire your first GX test network tokens.",
+          "url": "https://faucet.gx.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
+        },
+        {
+          "title": "🔷 Gaia-X Test Network Ocean Faucet",
+          "desc": "The faucet to acquire your first Ocean test network tokens.",
+          "url": "https://faucet.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
         }
       ]
     },
     {
       "title": "Identity & Trust",
       "resources": [
-        {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the Identity & Trust track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODc3Yjc4Y2QtNGYxZi00N2ZkLTkyMjEtY2JjODc5MmU2NGQ5%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
         {
           "title": "🆔 Identity & Trust",
           "desc": "The Federated Trust Model of Gaia-X provides transparency for everyone",
@@ -181,16 +191,6 @@
       "title": "EDC",
       "resources": [
         {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the EDC track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzU5ZDI3M2MtNzljNi00N2ZjLTkyYzEtNDhmNTA4NmZjNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
-        {
-          "title": "🎯 2nd Gaia-X Hackathon",
-          "desc": "2nd Gaia-X Hackathon 2021",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-2"
-        },
-        {
           "title": "Eclipse Dataspace Connector",
           "desc": "Eclipse Dataspace Connector provides a connector framework for sovereign, inter-organizational data exchange.",
           "url": "https://projects.eclipse.org/proposals/eclipse-dataspace-connector"
@@ -201,11 +201,6 @@
       "title": "SCS",
       "resources": [
         {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the SCS track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGJjNDdlNmMtZWIyOS00NmFjLTk5N2EtMmMwOTNmNTRkMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
-        {
           "title": "Hackathon Infrastructure",
           "desc": "The Sovereign Cloud Stack project has reached out to the SCS partners to provide infrastructure",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-1/-/wikis/Infrastructure"
@@ -215,11 +210,6 @@
     {
       "title": "Confidential Computing",
       "resources": [
-        {
-          "title": "🔴 Teams video session for this stream",
-          "desc": "The video conferencing stream for the CC track.",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTVjMmYxZTctODQyNS00MDhkLTkwYTgtYWZmOWQ3NzFjYWU1%40thread.v2/0?context=%7b%22Tid%22%3a%22e3386221-1143-4129-acd3-cfcb8a6fcc7f%22%2c%22Oid%22%3a%220838870d-2d9b-49c1-a396-4cdb76099e06%22%7d"
-        },
         {
           "title": "🎯 2nd Gaia-X Hackathon",
           "desc": "2nd Gaia-X Hackathon 2021",
