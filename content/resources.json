@@ -144,7 +144,7 @@
           "title": "Title",
           "desc": "Description",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
-        }
+        },
       ]
     },
     {
@@ -239,7 +239,76 @@
           "title": "🔷 Gaia-X Test Network Ocean Faucet",
           "desc": "The faucet to acquire your first Ocean test network tokens.",
           "url": "https://faucet.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
-        }
+        }, 
+        {
+          "title": "ThreeFold Minimum Viable Gaia-X Resources", 
+          "resources":  [
+           {
+             "title": "ThreeFold Tech repo",
+             "desc": "ThreeFold Tech open-source repository",
+             "url": "https://github.com/threefoldtech"
+           },
+           {
+             "title": "TFChain Portal",
+             "desc": "Portal to connect identity and farm to TFChain",
+             "url": "https://portal.grid.tf"
+           },
+           {
+             "title": "TFGrid Explorer OLD",
+             "desc": "Inventory of available resources on TFGrid v2+v3",
+             "url": "https://explorer.threefold.io"
+           },
+           {
+             "title": "TFGrid Explorer NEW",
+             "desc": "Inventory of available resources on TFGrid v3",
+             "url": "https://explorer.grid.tf"
+           },
+           {
+             "title": "ThreeFold Wiki",
+             "desc": "Extensive wiki explaining technology, tokenomics and connection manual",
+             "url": "https://library.threefold.me"
+           }, 
+           {
+             "title": "Bootstrap Zero-OS",
+             "desc": "Tool to create personalized bootstrap image, needed for connecting infrastructure to TFGrid",
+             "url": "https://bootstrap.grid.tf"
+           }, 
+           {
+             "title": "ThreeFold Flist generator",
+             "desc": "Tool to create signed, Docker compatible container images",
+             "url": "https://hub.grid.tf"
+           },
+           {
+             "title": "TFChain GraphQL interface",
+             "desc": "GraphQL interface of the latest state version of TFChain",
+             "url": "https://graphql.grid.tf/graphql"
+           },
+           {
+             "title": "ThreeFold Playground",
+             "desc": "Tool to deploy workloads onto TFGrid infrastructure",
+             "url": "https://play.grid.tf"
+           },
+           {
+             "title": "ThreeFold Terraform Script examples",
+             "desc": "Inventory of Terraform scripts, enabling deployment on TFGrid",
+             "url": "https://github.com/threefoldtech/terraform-provider-grid/tree/development/examples/resources"
+           },
+           {
+             "title": "ThreeFold Weblets examples",
+             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
+             "url": "https://github.com/threefoldtech/grid_weblets/tree/development/src/elements"
+           },
+           {
+             "title": "ThreeFold Weblets examples",
+             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
+             "url": "https://github.com/threefoldtech/grid_weblets/tree/development/src/elements"
+           },
+           {
+             "title": "Threefold Presentation for Structura-X",
+             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
+             "url": "https://docs.google.com/presentation/d/1ms0WQZ_Uh1O748M2cWMCEq5xvOtX4j9BUkICmcrJuS0/edit#slide=id.g9621af315e_0_0"
+           }
+         ]
       ]
     }
   ]
