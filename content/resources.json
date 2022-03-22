@@ -51,20 +51,25 @@
       "title": "Newcomers",
       "resources": [
         {
-          "title": "Title",
-          "desc": "Description",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the Newcomer & General Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmOWUxMjEtMjU1ZC00ZGNmLWJjMzktZTAzM2UwZDM2M2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
         {
-          "title": "Title",
-          "desc": "Description",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+          "title": "Track Content",
+          "desc": "Details about the content of the Newcomer & General Track",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3#track-1-newcomer-track"
         }
       ]
     },
     {
       "title": "Trust Framework & SD Tools",
       "resources": [
+        {
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the Service & Tool Support Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM5YjFkODYtYTJhNi00ODA4LWIyYjYtZDgyNjAxMTM5ZTI5%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+        },
         {
           "title": "Gaia-X Trust Framework",
           "desc": "Gaia-X enables trust in digital platforms through the trust framework",
@@ -121,6 +126,11 @@
       "title": "GXFS",
       "resources": [
         {
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the GXFS Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY0ZTQ3ZjAtZTc1MC00MjYxLTg4ZGItMGRjMDFlMDdmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+        },
+        {
           "title": "🤝🏽 Gaia-X Federation Services (GXFS)",
           "desc": "GXFS represent the minimum technical requirements and services of the Gaia-X Ecosystem.",
           "url": "https://www.gxfs.de/"
@@ -136,20 +146,25 @@
       "title": "ACME",
       "resources": [
         {
-          "title": "Title",
-          "desc": "Description",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the ACME Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYzNGRkYTYtM2NhMC00N2VmLTkxM2MtMTNkNzE0OGRkNTNm%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
         {
-          "title": "Title",
-          "desc": "Description",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+          "title": "Track Content",
+          "desc": "Details about the content of the ACME Track",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3#track-4-acme"
         }
       ]
     },
     {
       "title": "EDC",
       "resources": [
+        {
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the EDC Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThiOGM2NDEtNGEyZS00NWM1LWIyNDctNTBiNGRmMDAwZTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+        },
         {
           "title": "EDC Repository",
           "desc": "EDC Repository",
@@ -165,6 +180,11 @@
     {
       "title": "Minimal Viable Gaia-X",
       "resources": [
+        {
+          "title": "Session Link",
+          "desc": "Link to all the sessions of the Minmial Viable Gaia-X Track",
+          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFkOWQyMjAtZGY5Zi00MDk1LWJjYzAtOThiMDkwYmJiNjlj%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+        },
         {
           "title": "Minimal Viable Gaia-X Demonstrator",
           "desc": "The Minimal Viable Gaia-X Demonstrator, based on DLT and Ocean Protocol",
