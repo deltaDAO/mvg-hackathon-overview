@@ -76,8 +76,13 @@
           "url": "https://gitlab.com/gaia-x/policy-rules-committee/trust-framework/"
         },
         {
+          "title": "Gaia-X Lab Onboarding Presentation",
+          "desc": "Presentation for the Track 1 13:00-14:00 session",
+          "url": "https://github.com/deltaDAO/files/raw/main/20220319%20Gaia-X%20Lab%20Onboarding%20Demonstration.pdf/"
+        },
+        {
           "title": "🔐 Demonstration Portal",
-          "desc": "See how SSI could be used to issue Gaia-X credentials in a secure, privacy-respecting way",
+          "desc": "Issue and verifiy Gaia-X credentials in a cryptographically secure, privacy-respecting way",
           "url": "http://onboarding-portal.lab.gaia-x.eu/"
         },
         {
@@ -92,7 +97,7 @@
         },
         {
           "title": "🔑 Demonstration Cloud Wallet Repository",
-          "desc": "See how a Gaia-X compliant cloud wallet could look like",
+          "desc": "Repo for Gaia-X compliant cloud wallet Demonstration",
           "url": "https://wallet.lab.gaia-x.eu/login"
         },
         {
@@ -116,8 +121,13 @@
           "url": "https://registry.gaia-x.eu/api-docs/#/Trust%20Anchor/post_api_trustAnchor"
         },
         {
-          "title": "Demonstration Verifiable Credential Issuer and Verifier Repository",
-          "desc": "Gaia-X Verifiable Credential Issuer and Verifier Prototype Repos",
+          "title": "Demonstration Verifiable Credential Issuer Repository",
+          "desc": "Gaia-X Verifiable Credential Issuer Prototype Repos",
+          "url": "https://gitlab.com/gaia-x/lab/compliance/ssi-backends"
+        },
+        {
+          "title": "Demonstration Verifiable Credential Verifier Repository",
+          "desc": "Gaia-X Verifiable Credential Verifier Prototype Repos",
           "url": "https://gitlab.com/gaia-x/lab/compliance/ssi-backends"
         },
         {
