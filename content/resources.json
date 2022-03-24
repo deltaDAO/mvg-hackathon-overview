@@ -51,7 +51,7 @@
       "title": "Newcomers",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the Newcomer & General Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmOWUxMjEtMjU1ZC00ZGNmLWJjMzktZTAzM2UwZDM2M2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
@@ -66,7 +66,7 @@
       "title": "Trust Framework & SD Tools",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the Service & Tool Support Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM5YjFkODYtYTJhNi00ODA4LWIyYjYtZDgyNjAxMTM5ZTI5%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
@@ -76,9 +76,59 @@
           "url": "https://gitlab.com/gaia-x/policy-rules-committee/trust-framework/"
         },
         {
+          "title": "🔐 Demonstration Portal",
+          "desc": "See how SSI could be used to issue Gaia-X credentials in a secure, privacy-respecting way",
+          "url": "http://onboarding-portal.lab.gaia-x.eu/"
+        },
+        {
+          "title": "🔐 Demonstration Portal Repository",
+          "desc": "Repo for the Demonstration Portal",
+          "url": "https://gitlab.com/gaia-x/lab/compliance/gx-issuer-portal"
+        },
+        {
+          "title": "🔑 Demonstration Cloud Wallet",
+          "desc": "See how a Gaia-X compliant cloud wallet could look like”,
+          "url": "https://wallet.lab.gaia-x.eu/login"
+        },
+        {
+          "title": "🔑 Demonstration Cloud Wallet Repository",
+          "desc": "Repo for the cloud wallet demonstration”,
+          "url": "https://wallet.lab.gaia-x.eu/login"
+        },
+        {
+          "title": "Swagger SSI Backend",
+          "desc": "Gaia-X lab wallet backend API”,
+          "url": "https://wallet.lab.gaia-x.eu/api/swagger"
+        },
+        {
+          "title": "Demonstration Registry",
+          "desc": "Gaia-X lab registry”,
+          "url": "http://registry.lab.gaia-x.eu/"
+        },
+        {
+          "title": "Demonstration Registry Repository",
+          "desc": "Repo for the Gaia-X lab registry”,
+          "url": "http://registry.lab.gaia-x.eu/"
+        },
+        {
+          "title": "Swagger UI Registry",
+          "desc": "Endpoints to interact with registered trust anchors”,
+          "url": "https://registry.gaia-x.eu/api-docs/#/Trust%20Anchor/post_api_trustAnchor"
+        },
+        {
+          "title": "Demonstration Verifiable Credential Issuer and Verifier Repository",
+          "desc": "Gaia-X Verifiable Credential Issuer and Verifier Prototype Repos",
+          "url": "https://gitlab.com/gaia-x/lab/compliance/ssi-backends"
+        },
+        {
           "title": "Gaia-X Lab Compliance Repository",
           "desc": "Gaia-X Trust Framework Prototypes",
           "url": "https://gitlab.com/gaia-x/lab/compliance"
+        },
+        {
+          "title": "Demonstration Verifiable Credential Library",
+          "desc": "Demonstration Verifiable Credential Library",
+          "url": "https://github.com/walt-id/waltid-ssikit-vclib/tree/master/src/main/kotlin/id/walt/vclib/credentials/gaiax"
         },
         {
           "title": "SD Tools Lib",
@@ -96,21 +146,6 @@
           "url": "https://github.com/walt-id/waltid-oceandao-docs"
         },
         {
-          "title": "✍️ walt.id Signatory Demonstrator",
-          "desc": "Use this to issue your first credential",
-          "url": "https://issuer.waltid.org/login/"
-        },
-        {
-          "title": "🔑 walt.id Wallet Demonstrator",
-          "desc": "Use this to manage your first credential",
-          "url": "https://wallet.waltid.org/login"
-        },
-        {
-          "title": "🔐 walt.id Verifier and Access Demonstrator",
-          "desc": "Use this to use your first credential",
-          "url": "https://verifier.waltid.org/"
-        },
-        {
           "title": "🔍 walt.id Auditor incl. Swagger",
           "desc": "The walt.id Auditor incl. Swagger UI",
           "url": "https://auditor.datamarketplace.walt.id/"
@@ -126,7 +161,7 @@
       "title": "GXFS",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the GXFS Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY0ZTQ3ZjAtZTc1MC00MjYxLTg4ZGItMGRjMDFlMDdmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
@@ -146,7 +181,7 @@
       "title": "ACME",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the ACME Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYzNGRkYTYtM2NhMC00N2VmLTkxM2MtMTNkNzE0OGRkNTNm%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
@@ -161,7 +196,7 @@
       "title": "EDC",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the EDC Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThiOGM2NDEtNGEyZS00NWM1LWIyNDctNTBiNGRmMDAwZTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
@@ -181,7 +216,7 @@
       "title": "Minimal Viable Gaia-X",
       "resources": [
         {
-          "title": "Session Link",
+          "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the Minmial Viable Gaia-X Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFkOWQyMjAtZGY5Zi00MDk1LWJjYzAtOThiMDkwYmJiNjlj%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
