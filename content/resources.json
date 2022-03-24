@@ -92,22 +92,22 @@
         },
         {
           "title": "🔑 Demonstration Cloud Wallet Repository",
-          "desc": "Repo for the cloud wallet demonstration”,
+          "desc": "See how a Gaia-X compliant cloud wallet could look like",
           "url": "https://wallet.lab.gaia-x.eu/login"
         },
         {
           "title": "Swagger SSI Backend",
-          "desc": "Gaia-X lab wallet backend API”,
+          "desc": "Gaia-X lab wallet backend API",
           "url": "https://wallet.lab.gaia-x.eu/api/swagger"
         },
         {
           "title": "Demonstration Registry",
-          "desc": "Gaia-X lab registry”,
+          "desc": "Gaia-X Demonstration Registry”,
           "url": "http://registry.lab.gaia-x.eu/"
         },
         {
           "title": "Demonstration Registry Repository",
-          "desc": "Repo for the Gaia-X lab registry”,
+          "desc": "Repo for Gaia-X Demonstration Registry",
           "url": "http://registry.lab.gaia-x.eu/"
         },
         {
