@@ -87,7 +87,7 @@
         },
         {
           "title": "🔑 Demonstration Cloud Wallet",
-          "desc": "See how a Gaia-X compliant cloud wallet could look like”,
+          "desc": "See how a Gaia-X compliant cloud wallet could look like",
           "url": "https://wallet.lab.gaia-x.eu/login"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "title": "Demonstration Registry",
-          "desc": "Gaia-X Demonstration Registry”,
+          "desc": "Gaia-X Demonstration Registry",
           "url": "http://registry.lab.gaia-x.eu/"
         },
         {
@@ -112,7 +112,7 @@
         },
         {
           "title": "Swagger UI Registry",
-          "desc": "Endpoints to interact with registered trust anchors”,
+          "desc": "Endpoints to interact with registered trust anchors",
           "url": "https://registry.gaia-x.eu/api-docs/#/Trust%20Anchor/post_api_trustAnchor"
         },
         {
