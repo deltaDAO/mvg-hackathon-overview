@@ -77,7 +77,7 @@
         },
         {
           "title": "Gaia-X Lab Onboarding Presentation",
-          "desc": "Presentation for the Track 1 13:00-14:00 session",
+          "desc": "Presentation for the Track 1 13:00-14:00 session on march 28th",
           "url": "https://github.com/deltaDAO/files/raw/main/20220319%20Gaia-X%20Lab%20Onboarding%20Demonstration.pdf/"
         },
         {
@@ -236,6 +236,11 @@
           "url": "https://portal.minimal-gaia-x.eu/"
         },
         {
+          "title": "Bootstrapping Gaia-X Ecosystems presentation",
+          "desc": "Presentation for the track 6 11:00-12:00 session on march 28th",
+          "url": "https://github.com/deltaDAO/files/raw/main/20220328_Bootstrapping_Gaia-X_Ecosystem.pdf"
+        },
+        {
           "title": "🎓 MVG Tutorial Playlist",
           "desc": "A video series guiding you through the first steps on the MVG based on DLT and Ocean Protocol.",
           "url": "https://youtube.com/playlist?list=PLIQKB1A_2IytB5Cf6P0uTTN4hRGbAxw7E"
@@ -304,6 +309,26 @@
           "title": "🔷 Gaia-X Test Network Ocean Faucet",
           "desc": "The faucet to acquire your first Ocean test network tokens.",
           "url": "https://faucet.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
+        },
+        {
+          "title": "Service portability with VMware Tanzu presentation",
+          "desc": "Presentation for the track 6 15:00-16:00 session on march 28th",
+          "url": "https://github.com/deltaDAO/files/raw/main/20220328_deltaDAO_VMware_Tanzu.pdf"
+        },
+        {
+          "title": "Minimal Viable Gaia-X Catalogue",
+          "desc": "A catalogue of all datasets and algorithms on the Minimal Viable Gaia-X",
+          "url": "https://catalogue.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "VMware Tanzu Community Edition",
+          "desc": "VMware Tanzu Community Edition Repository",
+          "url": "https://github.com/vmware-tanzu/community-edition"
+        },
+        {
+          "title": "VMware Tanzu Community Edition CLI Installation",
+          "desc": "Download and install VMware Tanzu Community Edition CLI",
+          "url": "https://tanzucommunityedition.io/docs/latest/cli-installation/"
         },
         {
              "title": "ThreeFold Tech repo",
