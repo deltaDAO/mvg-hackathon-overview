@@ -1,19 +1,24 @@
 {
   "resources": [
     {
+      "title": "Gaia-X Compliance Service",
+      "desc": "The Compliance Service will validate the shape and content of Self Descriptions.",
+      "url": "https://gitlab.com/gaia-x/lab/compliance/gx-compliance"
+    },
+    {
       "title": "Registration",
-      "desc": "Register here for the 3rd Gaia-X Hackathon on March 28-29.",
-      "url": "https://online2.superoffice.com/Cust26633/CS/scripts/customer.fcgi?action=formFrame&formId=F-buhKosWT"
+      "desc": "Register here for the 4th Gaia-X Hackathon on June 20-21.",
+      "url": "https://online2.superoffice.com/Cust26633/CS/scripts/customer.fcgi?action=formFrame&formId=F-kXc7da9h"
     },
     {
       "title": "Hackathon Overview",
-      "desc": "GitLab entrypoint for the 3rd Gaia-X hackathon. Find milestones, issues and other related activities here.",
-      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+      "desc": "GitLab entrypoint for the 4th Gaia-X hackathon. Find milestones, issues and other related activities here.",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4"
     },
     {
       "title": "🗓 Schedule & Agenda",
-      "desc": "Overview of the tracks and their sessions scheduled on March 28-29",
-      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3"
+      "desc": "Overview of the tracks and their sessions scheduled on June 20-21",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4"
     },
     {
       "title": "Gaia-X Trust Framework",
@@ -21,9 +26,14 @@
       "url": "https://gitlab.com/gaia-x/policy-rules-committee/trust-framework/"
     },
     {
-      "title": "🌟 Gaia-X Architecture Document 21.12",
+      "title": "🌟 Gaia-X Trust Framework Document 22.04",
+      "desc": "The Trust Framework is the set of rules that define the minimum baseline to be part of the Gaia-X Ecosystem.",
+      "url": "https://gaia-x.eu/wp-content/uploads/2022/05/Gaia-X-Trust-Framework-22.04.pdf"
+    },
+    {
+      "title": "🌟 Gaia-X Architecture Document 22.04",
       "desc": "The Gaia-X Architecture describes the concepts federated open data infrastructure.",
-      "url": "https://gaia-x.eu/sites/default/files/2022-01/Gaia-X_Architecture_Document_2112.pdf"
+      "url": "https://gaia-x.eu/wp-content/uploads/2022/06/Gaia-x-Architecture-Document-22.04-Release.pdf"
     },
     {
       "title": "Gaia-X Architecture Document Working Draft",
@@ -48,7 +58,7 @@
   ],
   "categories": [
     {
-      "title": "Newcomers",
+      "title": "General Track",
       "resources": [
         {
           "title": "🎬 Session Link",
@@ -63,162 +73,22 @@
       ]
     },
     {
-      "title": "Trust Framework & SD Tools",
+      "title": "Provider / Federator Track",
       "resources": [
         {
           "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the Service & Tool Support Track",
+          "desc": "Link to all the sessions of the Provider / Federator Track (1st day)",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM5YjFkODYtYTJhNi00ODA4LWIyYjYtZDgyNjAxMTM5ZTI5%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "Gaia-X Trust Framework",
-          "desc": "Gaia-X enables trust in digital platforms through the trust framework",
-          "url": "https://gitlab.com/gaia-x/policy-rules-committee/trust-framework/"
-        },
-        {
-          "title": "Gaia-X Lab Onboarding Presentation",
-          "desc": "Presentation for the Track 1 13:00-14:00 session on march 28th",
-          "url": "https://github.com/deltaDAO/files/raw/main/20220319%20Gaia-X%20Lab%20Onboarding%20Demonstration.pdf/"
-        },
-        {
-          "title": "🔐 Demonstration Portal",
-          "desc": "Issue and verifiy Gaia-X credentials in a cryptographically secure, privacy-respecting way",
-          "url": "http://onboarding-portal.lab.gaia-x.eu/"
-        },
-        {
-          "title": "🔐 Demonstration Portal Repository",
-          "desc": "Repo for the Demonstration Portal",
-          "url": "https://gitlab.com/gaia-x/lab/compliance/gx-issuer-portal"
-        },
-        {
-          "title": "🔑 Demonstration Cloud Wallet",
-          "desc": "See how a Gaia-X compliant cloud wallet could look like",
-          "url": "https://wallet.lab.gaia-x.eu/login"
-        },
-        {
-          "title": "🔑 Demonstration Cloud Wallet Repository",
-          "desc": "Repo for Gaia-X compliant cloud wallet Demonstration",
-          "url": "https://wallet.lab.gaia-x.eu/login"
-        },
-        {
-          "title": "Swagger SSI Backend",
-          "desc": "Gaia-X lab wallet backend API",
-          "url": "https://wallet.lab.gaia-x.eu/api/swagger"
-        },
-        {
-          "title": "Demonstration Registry",
-          "desc": "Gaia-X Demonstration Registry",
-          "url": "http://registry.lab.gaia-x.eu/"
-        },
-        {
-          "title": "Demonstration Registry Repository",
-          "desc": "Repo for Gaia-X Demonstration Registry",
-          "url": "http://registry.lab.gaia-x.eu/"
-        },
-        {
-          "title": "Swagger UI Registry",
-          "desc": "Endpoints to interact with registered trust anchors",
-          "url": "https://registry.gaia-x.eu/api-docs/#/Trust%20Anchor/post_api_trustAnchor"
-        },
-        {
-          "title": "Demonstration Verifiable Credential Issuer Repository",
-          "desc": "Gaia-X Verifiable Credential Issuer Prototype Repos",
-          "url": "https://gitlab.com/gaia-x/lab/compliance/ssi-backends"
-        },
-        {
-          "title": "Demonstration Verifiable Credential Verifier Repository",
-          "desc": "Gaia-X Verifiable Credential Verifier Prototype Repos",
-          "url": "https://gitlab.com/gaia-x/lab/compliance/ssi-backends"
-        },
-        {
-          "title": "Gaia-X Lab Compliance Repository",
-          "desc": "Gaia-X Trust Framework Prototypes",
-          "url": "https://gitlab.com/gaia-x/lab/compliance"
-        },
-        {
-          "title": "Demonstration Verifiable Credential Library",
-          "desc": "Demonstration Verifiable Credential Library",
-          "url": "https://github.com/walt-id/waltid-ssikit-vclib/tree/master/src/main/kotlin/id/walt/vclib/credentials/gaiax"
-        },
-        {
-          "title": "SD Tools Lib",
-          "desc": "SD Tools Lib",
-          "url": "https://gaia-x.fit.fraunhofer.de/"
-        },
-        {
-          "title": "🔵 SSI Kit Repositories",
-          "desc": "Setting up the SSI Kit and step by step Tutorial",
-          "url": "https://github.com/walt-id"
-        },
-        {
-          "title": "🎬 SSI Kit & Core Concepts of SSI",
-          "desc": "Setting up the SSI Kit and step by step Tutorial",
-          "url": "https://github.com/walt-id/waltid-oceandao-docs"
-        },
-        {
-          "title": "🔍 walt.id Auditor incl. Swagger",
-          "desc": "The walt.id Auditor incl. Swagger UI",
-          "url": "https://auditor.datamarketplace.walt.id/"
-        },
-        {
-          "title": "🔎 deltaDAO Auditor incl. Swagger",
-          "desc": "The deltaDAO Auditor incl. Swagger UI",
-          "url": "https://auditor.gaiax.delta-dao.com/"
         }
       ]
     },
     {
-      "title": "GXFS",
+      "title": "User / Use Case Track",
       "resources": [
         {
           "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the GXFS Track",
+          "desc": "Link to all the sessions of the User / Use Case Track (2nd day)",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY0ZTQ3ZjAtZTc1MC00MjYxLTg4ZGItMGRjMDFlMDdmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "🤝🏽 Gaia-X Federation Services (GXFS)",
-          "desc": "GXFS represent the minimum technical requirements and services of the Gaia-X Ecosystem.",
-          "url": "https://www.gxfs.de/"
-        },
-        {
-          "title": "GXFS-DE Repositories",
-          "desc": "GXFS-DE Repositories",
-          "url": "https://gitlab.com/gaia-x/data-infrastructure-federation-services"
-        }
-      ]
-    },
-    {
-      "title": "ACME",
-      "resources": [
-        {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the ACME Track",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYzNGRkYTYtM2NhMC00N2VmLTkxM2MtMTNkNzE0OGRkNTNm%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "Track Content",
-          "desc": "Details about the content of the ACME Track",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3#track-4-acme"
-        }
-      ]
-    },
-    {
-      "title": "EDC",
-      "resources": [
-        {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the EDC Track",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThiOGM2NDEtNGEyZS00NWM1LWIyNDctNTBiNGRmMDAwZTBh%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "EDC Repository",
-          "desc": "EDC Repository",
-          "url": "https://github.com/eclipse-dataspaceconnector"
-        },
-        {
-          "title": "IDSA Respository",
-          "desc": "IDSA Respository",
-          "url": "https://github.com/orgs/International-Data-Spaces-Association/repositories"
         }
       ]
     },
