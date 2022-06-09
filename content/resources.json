@@ -69,6 +69,31 @@
           "title": "Track Content",
           "desc": "Details about the content of the General Track",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#overview-of-hackathon-tracks"
+        },
+        {
+          "title": "🔐 Gaia-X Lab Repository",
+          "desc": "Repo for the Demonstration Portal",
+          "url": "https://gitlab.com/gaia-x/lab/compliance/"
+        },
+        {
+          "title": "🔐 Gaia-X Compliance Service Demonstrator",
+          "desc": "Prototype for a compliance service as defined in https://gaia-x.gitlab.io/policy-rules-committee/trust-framework/trust_anchors/",
+          "url": "https://compliance.gaia-x.eu/docs/"
+        },
+        {
+          "title": "🔐 Gaia-X Lab Registry",
+          "desc": "Gaia-X Lab Registry",
+          "url": "https://registry.gaia-x.eu/docs/"
+        },
+        {
+          "title": "Technical commitee service characteristics repository",
+          "desc": "Introduction to the Gaia-X Self-Description for newcomers",
+          "url": "https://gitlab.com/gaia-x/technical-committee/service-characteristics/"
+        },
+        {
+          "title": "Gaia-X Lab KALG repository",
+          "desc": "GAIA-X Lab Kalg project is PoC showing data exchange between organization compliant with the GAIA-X ecosystem.",
+          "url": "https://gitlab.com/gaia-x/lab/kalg/-/tree/main"
         }
       ]
     },
@@ -84,7 +109,67 @@
           "title": "Track Content",
           "desc": "Details about the content of the Provider / Federator Track",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#monday-june-20-2022"
-        }
+        },
+        {
+          "title": "VC lifecycle management repository",
+          "desc": "W3C Privacy-preserving status information for VCs",
+          "url": "https://w3c-ccg.github.io/vc-status-list-2021/#conceptual-framework"
+        },
+        {
+          "title": "VC data model repository",
+          "desc": "W3C VC data model 1.1",
+          "url": "https://w3c-ccg.github.io/vc-status-list-2021/#conceptual-framework"
+        },
+        {
+          "title": "Gaia-X Lab Compliance API",
+          "desc": "Gaia-X Lab Compliance API",
+          "url": "https://compliance.gaia-x.eu/api/"
+        },
+        {
+          "title": "Gaia-X Lab Registry API",
+          "desc": "Gaia-X Lab Registry API",
+          "url": "https://registry.gaia-x.eu/api-docs//
+        },
+        {
+          "title": "Gaia-X Lab Onboarding Portal",
+          "desc": "Issue Gaia-X participations credentials",
+          "url": "https://onboarding-portal.lab.gaia-x.eu/"
+        },
+        {
+          "title": "Threefold Portal",
+          "desc": "Threefold Portal",
+          "url": "https://portal.dev.grid.tf/"
+        },
+        {
+          "title": "Threefold Zero-OS bootstrapping",
+          "desc": "Tooling for connecting HW Infrastructure (to be used after registration on portal)",
+          "url": "https://bootstrap.grid.tf/"
+        },
+        {
+          "title": "k8s-cluster-api-provider repository",
+          "desc": "Automation to use the OpenStack Kubernetes API Provider on SCS",
+          "url": "https://github.com/SovereignCloudStack/k8s-cluster-api-provider"
+        },
+        {
+          "title": "Data-Infrastructure Federation Services",
+          "desc": "Data-Infrastructure Federation Services",
+          "url": "https://gitlab.com/gaia-x/data-infrastructure-federation-services"
+        },
+        {
+          "title": "gx-self-description-generator",
+          "desc": "Tools for creating Gaia-X Self-Descriptions (OpenStack, k8s, ...)",
+          "url": "https://github.com/SovereignCloudStack/gx-self-description-generator"
+        },
+        {
+          "title": "MinimumViableDataspace",
+          "desc": "Temporary repository to get started with the MinimumViableDataspace",
+          "url": "https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace"
+        },
+        {
+          "title": "Eclipse Dataspace Connector",
+          "desc": "Dataspace Connector repository",
+          "url": "https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace"
+        },
       ]
     },
     {
@@ -131,54 +216,19 @@
           "url": "https://github.com/deltaDAO/Ocean-Market"
         },
         {
-          "title": "🏦 safeFBDC Portal",
-          "desc": "The safe Financial Big Data Cluster (FBDC) Portal enables AML AI/ML on sensitive data.",
-          "url": "https://safefbdc.portal.minimal-gaia-x.eu/"
+          "title": "MinimumViableDataspace",
+          "desc": "Temporary repository to get started with the MinimumViableDataspace",
+          "url": "https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace"
         },
         {
-          "title": "🔬 UDL Science and Research Portal",
-          "desc": "An open research and science platform following the principles of findability, accessibility, interoperability and reusability.",
-          "url": "https://udl.portal.minimal-gaia-x.eu/"
+          "title": "Eclipse Dataspace Connector",
+          "desc": "Dataspace Connector repository",
+          "url": "https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace"
         },
         {
-          "title": "💎 Foreverontheblockchain Portal",
-          "desc": "GDPR compliant data analytics for SMEs with Compute-to-Data",
-          "url": "https://forever.portal.minimal-gaia-x.eu/"
-        },
-        {
-          "title": "🧑‍💻 safeFBDC Portal Repository",
-          "desc": "The safe Financial Big Data Cluster (safeFBDC) Portal Repository",
-          "url": "https://github.com/deltaDAO/portal-safeFBDC"
-        },
-        {
-          "title": "🧑🏿‍💻 UDL Science and Research Portal Repository",
-          "desc": "The Universitat de Lleida MVG Portal Repository",
-          "url": "https://github.com/deltaDAO/portal-udl"
-        },
-        {
-          "title": "👩‍💻 Foreverontheblockchain Repository",
-          "desc": "The Repository of the Foreverontheblockchain Portal",
-          "url": "https://github.com/deltaDAO/market-foreverontheblockchain"
-        },
-        {
-          "title": "Minimal Viable Gaia-X Exchange Logging Service",
-          "desc": "Provides evidence that data has been submitted and received",
-          "url": "https://exchangelog.minimal-gaia-x.eu/"
-        },
-        {
-          "title": "Minimal Viable Gaia-X Catalogue",
-          "desc": "A catalogue of all datasets and algorithms on the Minimal Viable Gaia-X",
-          "url": "https://catalogue.minimal-gaia-x.eu/"
-        },
-        {
-          "title": "🦊 MetaMask Web3 Wallet",
-          "desc": "The Web3 Wallet used in the tutorials. Considered the standard in Web3",
-          "url": "https://metamask.io/"
-        },
-        {
-          "title": "🔷 Gaia-X Test Network Ocean Faucet",
-          "desc": "The faucet to acquire your first Ocean test network tokens.",
-          "url": "https://faucet.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
+          "title": "MVG Demonstrator repository",
+          "desc": "MVG Demonstrator repository",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/mvg-demonstrator"
         }
       ]
     }
