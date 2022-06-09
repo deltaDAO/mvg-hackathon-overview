@@ -169,7 +169,7 @@
           "title": "Eclipse Dataspace Connector",
           "desc": "Dataspace Connector repository",
           "url": "https://github.com/eclipse-dataspaceconnector/MinimumViableDataspace"
-        },
+        }
       ]
     },
     {
