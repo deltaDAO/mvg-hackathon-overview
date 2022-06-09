@@ -27,7 +27,7 @@
     },
     {
       "title": "🌟 Gaia-X Trust Framework Document 22.04",
-      "desc": "The Trust Framework is the set of rules that define the minimum baseline to be part of the Gaia-X Ecosystem.",
+      "desc": "Set of rules that define the minimum baseline to be part of the Gaia-X Ecosystem.",
       "url": "https://gaia-x.eu/wp-content/uploads/2022/05/Gaia-X-Trust-Framework-22.04.pdf"
     },
     {
@@ -62,13 +62,13 @@
       "resources": [
         {
           "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the Newcomer & General Track",
+          "desc": "Link to all the sessions of the General Track",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmOWUxMjEtMjU1ZC00ZGNmLWJjMzktZTAzM2UwZDM2M2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
         },
         {
           "title": "Track Content",
-          "desc": "Details about the content of the Newcomer & General Track",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3#track-1-newcomer-track"
+          "desc": "Details about the content of the General Track",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#overview-of-hackathon-tracks"
         }
       ]
     },
@@ -79,6 +79,11 @@
           "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the Provider / Federator Track (1st day)",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM5YjFkODYtYTJhNi00ODA4LWIyYjYtZDgyNjAxMTM5ZTI5%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+        },
+        {
+          "title": "Track Content",
+          "desc": "Details about the content of the Provider / Federator Track",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#monday-june-20-2022"
         }
       ]
     },
@@ -89,26 +94,26 @@
           "title": "🎬 Session Link",
           "desc": "Link to all the sessions of the User / Use Case Track (2nd day)",
           "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY0ZTQ3ZjAtZTc1MC00MjYxLTg4ZGItMGRjMDFlMDdmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        }
-      ]
-    },
-    {
-      "title": "Minimal Viable Gaia-X",
-      "resources": [
+        },
         {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the Minmial Viable Gaia-X Track",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmFkOWQyMjAtZGY5Zi00MDk1LWJjYzAtOThiMDkwYmJiNjlj%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
+          "title": "Track Content",
+          "desc": "Details about the content of the User / Use Case Track",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#tuesday-june-21-2022"
+        },
+        {
+          "title": "🚪 EuProGigant Demonstrator",
+          "desc": "EuProGigant Demonstrator for the integration of a manufacturing use case into the Gaia-X framework",
+          "url": "https://euprogigant.portal.minimal-gaia-x.eu/"
+        },
+        {
+          "title": "🤝 EuProGigant Demonstrator Repository",
+          "desc": "The EuProGigant Demonstrator Repository for the manufacturing use case",
+          "url": "https://github.com/deltaDAO/Ocean-Market"
         },
         {
           "title": "🚪 Minimal Viable Gaia-X Portal",
           "desc": "The Portal enables publication, discovery, consume and management of service offerings",
           "url": "https://portal.minimal-gaia-x.eu/"
-        },
-        {
-          "title": "Bootstrapping Gaia-X Ecosystems presentation",
-          "desc": "Presentation for the track 6 11:00-12:00 session on march 28th",
-          "url": "https://github.com/deltaDAO/files/raw/main/20220328_Bootstrapping_Gaia-X_Ecosystem.pdf"
         },
         {
           "title": "🎓 MVG Tutorial Playlist",
@@ -166,110 +171,15 @@
           "url": "https://catalogue.minimal-gaia-x.eu/"
         },
         {
-          "title": "🆔 SSI Onboarding for the MVG",
-          "desc": "A quick and easy four-step guide focussing on onboarding to the MVG SSI solution.",
-          "url": "https://github.com/deltaDAO/files/blob/main/SSIKIT-onboarding-hackathon2.md"
-        },
-        {
           "title": "🦊 MetaMask Web3 Wallet",
           "desc": "The Web3 Wallet used in the tutorials. Considered the standard in Web3",
           "url": "https://metamask.io/"
         },
         {
-          "title": "🟦 Gaia-X Test Network Token Faucet",
-          "desc": "The faucet to acquire your first GX test network tokens.",
-          "url": "https://faucet.gx.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
-        },
-        {
           "title": "🔷 Gaia-X Test Network Ocean Faucet",
           "desc": "The faucet to acquire your first Ocean test network tokens.",
           "url": "https://faucet.gaiaxtestnet.oceanprotocol.com/send?address=0x01e66950353400E93AEe7F041C0303103E2ef5Ab"
-        },
-        {
-          "title": "Service portability with VMware Tanzu presentation",
-          "desc": "Presentation for the track 6 15:00-16:00 session on march 28th",
-          "url": "https://github.com/deltaDAO/files/raw/main/20220328_deltaDAO_VMware_Tanzu.pdf"
-        },
-        {
-          "title": "VMware Tanzu Community Edition",
-          "desc": "VMware Tanzu Community Edition Repository",
-          "url": "https://github.com/vmware-tanzu/community-edition"
-        },
-        {
-          "title": "VMware Tanzu Community Edition CLI Installation",
-          "desc": "Download and install VMware Tanzu Community Edition CLI",
-          "url": "https://tanzucommunityedition.io/docs/latest/cli-installation/"
-        },
-        {
-          "title": "Repository for Aquarius deployment w. Tanzu",
-          "desc": "Public Package Repository for Aquarius deployment w. Tanzu",
-          "url": "http://mvg-catalog-repo.delta-dao.com/packages/mvg-catalog-repo:1.0.0"
-        },
-        {
-             "title": "ThreeFold Tech repo",
-             "desc": "ThreeFold Tech open-source repository",
-             "url": "https://github.com/threefoldtech"
-           },
-           {
-             "title": "TFChain Portal",
-             "desc": "Portal to connect identity and farm to TFChain",
-             "url": "https://portal.grid.tf"
-           },
-           {
-             "title": "TFGrid Explorer OLD",
-             "desc": "Inventory of available resources on TFGrid v2+v3",
-             "url": "https://explorer.threefold.io"
-           },
-           {
-             "title": "TFGrid Explorer NEW",
-             "desc": "Inventory of available resources on TFGrid v3",
-             "url": "https://explorer.grid.tf"
-           },
-           {
-             "title": "ThreeFold Wiki",
-             "desc": "Extensive wiki explaining technology, tokenomics and connection manual",
-             "url": "https://library.threefold.me"
-           }, 
-           {
-             "title": "Bootstrap Zero-OS",
-             "desc": "Tool to create personalized bootstrap image, needed for connecting infrastructure to TFGrid",
-             "url": "https://bootstrap.grid.tf"
-           }, 
-           {
-             "title": "ThreeFold Flist generator",
-             "desc": "Tool to create signed, Docker compatible container images",
-             "url": "https://hub.grid.tf"
-           },
-           {
-             "title": "TFChain GraphQL interface",
-             "desc": "GraphQL interface of the latest state version of TFChain",
-             "url": "https://graphql.grid.tf/graphql"
-           },
-           {
-             "title": "ThreeFold Playground",
-             "desc": "Tool to deploy workloads onto TFGrid infrastructure",
-             "url": "https://play.grid.tf"
-           },
-           {
-             "title": "ThreeFold Terraform Script examples",
-             "desc": "Inventory of Terraform scripts, enabling deployment on TFGrid",
-             "url": "https://github.com/threefoldtech/terraform-provider-grid/tree/development/examples/resources"
-           },
-           {
-             "title": "ThreeFold Weblets examples",
-             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
-             "url": "https://github.com/threefoldtech/grid_weblets/tree/development/src/elements"
-           },
-           {
-             "title": "ThreeFold Weblets examples",
-             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
-             "url": "https://github.com/threefoldtech/grid_weblets/tree/development/src/elements"
-           },
-           {
-             "title": "Threefold Presentation for Structura-X",
-             "desc": "Inventory of Weblets, A weblet is a compiled javascript component which can be embedded in any website.",
-             "url": "https://docs.google.com/presentation/d/1ms0WQZ_Uh1O748M2cWMCEq5xvOtX4j9BUkICmcrJuS0/edit#slide=id.g9621af315e_0_0"
-           }
+        }
       ]
     }
   ]
