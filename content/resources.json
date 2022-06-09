@@ -72,22 +72,22 @@
         },
         {
           "title": "🔐 Gaia-X Lab Repository",
-          "desc": "Repo for the Demonstration Portal",
+          "desc": "Gaia-X Lab Repository",
           "url": "https://gitlab.com/gaia-x/lab/compliance/"
         },
         {
-          "title": "🔐 Gaia-X Compliance Service Demonstrator",
-          "desc": "Prototype for a compliance service as defined in https://gaia-x.gitlab.io/policy-rules-committee/trust-framework/trust_anchors/",
+          "title": "🔐 Gaia-X Compliance Service",
+          "desc": "Gaia-X Compliance Service",
           "url": "https://compliance.gaia-x.eu/docs/"
         },
         {
-          "title": "🔐 Gaia-X Lab Registry",
-          "desc": "Gaia-X Lab Registry",
+          "title": "🔐 Gaia-X Registry",
+          "desc": "Gaia-X Registry",
           "url": "https://registry.gaia-x.eu/docs/"
         },
         {
           "title": "Technical commitee service characteristics repository",
-          "desc": "Introduction to the Gaia-X Self-Description for newcomers",
+          "desc": "Introduction to Gaia-X Self-Descriptions for newcomers",
           "url": "https://gitlab.com/gaia-x/technical-committee/service-characteristics/"
         },
         {
@@ -121,18 +121,18 @@
           "url": "https://w3c-ccg.github.io/vc-status-list-2021/#conceptual-framework"
         },
         {
-          "title": "Gaia-X Lab Compliance API",
-          "desc": "Gaia-X Lab Compliance API",
+          "title": "Gaia-X Compliance Service API",
+          "desc": "Gaia-X Lab Service API",
           "url": "https://compliance.gaia-x.eu/api/"
         },
         {
-          "title": "Gaia-X Lab Registry API",
-          "desc": "Gaia-X Lab Registry API",
-          "url": "https://registry.gaia-x.eu/api-docs//
+          "title": "Gaia-X Registry API",
+          "desc": "Gaia-X Registry API",
+          "url": "https://registry.gaia-x.eu/"
         },
         {
           "title": "Gaia-X Lab Onboarding Portal",
-          "desc": "Issue Gaia-X participations credentials",
+          "desc": "Issue Gaia-X participation credentials",
           "url": "https://onboarding-portal.lab.gaia-x.eu/"
         },
         {
