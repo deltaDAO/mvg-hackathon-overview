@@ -61,12 +61,7 @@
       "title": "General Track",
       "resources": [
         {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the General Track",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJmOWUxMjEtMjU1ZC00ZGNmLWJjMzktZTAzM2UwZDM2M2Rl%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "Track Content",
+          "title": "🎬 Track Content",
           "desc": "Details about the content of the General Track",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#overview-of-hackathon-tracks"
         },
@@ -101,12 +96,7 @@
       "title": "Provider / Federator Track",
       "resources": [
         {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the Provider / Federator Track (1st day)",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTM5YjFkODYtYTJhNi00ODA4LWIyYjYtZDgyNjAxMTM5ZTI5%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
-        {
-          "title": "Track Content",
+          "title": "🎬 Track Content",
           "desc": "Details about the content of the Provider / Federator Track",
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#monday-june-20-2022"
         },
@@ -119,6 +109,11 @@
           "title": "VC data model repository",
           "desc": "W3C VC data model 1.1",
           "url": "https://w3c-ccg.github.io/vc-status-list-2021/#conceptual-framework"
+        },
+        {
+          "title": "Gaia-X Lab Compliance Service Presentation",
+          "desc": "Gaia-X Compliance Service & Gaia-X Registry APIs introduction",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/uploads/ff433a8f727a128b39c48ab49c6b664b/20220620_Gaia-X_Lab_Compliance_Service.pdf"
         },
         {
           "title": "Gaia-X Compliance Service API",
@@ -134,6 +129,11 @@
           "title": "Gaia-X Lab Onboarding Portal",
           "desc": "Issue Gaia-X participation credentials",
           "url": "https://onboarding-portal.lab.gaia-x.eu/"
+        },
+        {
+          "title": "Gaia-X Test Net and DLT Nodes Presentation",
+          "desc": "Including DLT-Components into the Gaia-X Framework of Self-Descriptions",
+          "url": "https://github.com/deltaDAO/files/blob/main/20220620_Gaia-X_Validator_node.pdf"
         },
         {
           "title": "Threefold Portal",
@@ -175,11 +175,6 @@
     {
       "title": "User / Use Case Track",
       "resources": [
-        {
-          "title": "🎬 Session Link",
-          "desc": "Link to all the sessions of the User / Use Case Track (2nd day)",
-          "url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODY0ZTQ3ZjAtZTc1MC00MjYxLTg4ZGItMGRjMDFlMDdmYjA0%40thread.v2/0?context=%7b%22Tid%22%3a%22442d55f0-10e0-4a5d-9894-57c58a5de2c0%22%2c%22Oid%22%3a%2297bff0db-076b-4075-a511-21ffbd6ed3dc%22%7d"
-        },
         {
           "title": "Track Content",
           "desc": "Details about the content of the User / Use Case Track",
