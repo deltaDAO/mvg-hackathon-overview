@@ -66,6 +66,11 @@
           "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4#overview-of-hackathon-tracks"
         },
         {
+          "title": "Gaia-X Lab Compliance Service Presentation",
+          "desc": "Gaia-X Compliance Service & Gaia-X Registry APIs introduction",
+          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/uploads/ff433a8f727a128b39c48ab49c6b664b/20220620_Gaia-X_Lab_Compliance_Service.pdf"
+        },
+        {
           "title": "🔐 Gaia-X Lab Repository",
           "desc": "Gaia-X Lab Repository",
           "url": "https://gitlab.com/gaia-x/lab/compliance/"
@@ -109,11 +114,6 @@
           "title": "VC data model repository",
           "desc": "W3C VC data model 1.1",
           "url": "https://w3c-ccg.github.io/vc-status-list-2021/#conceptual-framework"
-        },
-        {
-          "title": "Gaia-X Lab Compliance Service Presentation",
-          "desc": "Gaia-X Compliance Service & Gaia-X Registry APIs introduction",
-          "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/uploads/ff433a8f727a128b39c48ab49c6b664b/20220620_Gaia-X_Lab_Compliance_Service.pdf"
         },
         {
           "title": "Gaia-X Compliance Service API",
